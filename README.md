@@ -7,7 +7,7 @@ Advanced SSH config
 [![Views in the last 24 hours](https://sourcegraph.com/api/repos/github.com/moul/advanced-ssh-config/counters/views-24h.png)](https://sourcegraph.com/github.com/moul/advanced-ssh-config)
 [![PyPi downloads](https://pypip.in/d/advanced-ssh-config/badge.svg)](https://crate.io/packages/advanced-ssh-config/)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/moul/advanced-ssh-config/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-[![Gitter chat](https://badges.gitter.im/moul/advanced-ssh-config.svg)](https://gitter.im/moul/advanced-ssh-config)
+[![Gitter chat](https://badges.gitter.im/moul/advanced-ssh-config.svg)](https://gitter.im/moul/advanced-ssh-config) [![GuardRails badge](https://badges.production.guardrails.io/moul/advanced-ssh-config-python.svg)](https://www.guardrails.io)
 
 
 <img src="https://raw.githubusercontent.com/moul/advanced-ssh-config/develop/assets/assh.jpg" width="400" />
